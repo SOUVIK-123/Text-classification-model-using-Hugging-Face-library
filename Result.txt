@@ -1,0 +1,6 @@
+The model achieves an accuracy of 91% on the test set, which is a decent
+performance, but there is still room for improvement. One possible way to improve
+the model's performance is to use a larger dataset for training to help the model
+
+generalize better to new data. Data augmentation techniques, such as rotating or
+flipping the images, can also be used to artificially increase the size of the dataset.
