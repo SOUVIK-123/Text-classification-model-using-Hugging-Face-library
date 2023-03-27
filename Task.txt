@@ -1,0 +1,8 @@
+The task is to build a text classification model using the Hugging Face library to classify a
+given dataset of text into multiple categories, where the dataset should have at least 1000
+samples for each category. The candidate should preprocess the text data by cleaning it,
+removing stopwords, punctuations and other irrelevant characters. Then, they should
+fine-tune a pre-trained model such as BERT or GPT-2 on the classification task using the
+transformers library in Python. The model should be trained and evaluated using metrics
+such as accuracy, precision, recall and F1-score. Finally, the trained model should be used
+to predict the categories of a few samples from the test set.
